@@ -1,0 +1,71 @@
+body {
+
+text-align: center;
+background: #04A1BF;
+font-family: 'Open Sans', sans-serif;
+
+
+}
+
+
+#heading {
+
+padding-top: 100px;
+font-weight: 900;
+padding-bottom: 50px;
+color: #142E6A;
+}
+
+
+#inc_count {
+
+color: #00008B;
+font-weight: 900;
+font-size: 50px;
+margin-bottom: 50px;
+
+}
+
+
+#dec_count {
+
+color: #00008B;
+font-weight: 900;
+font-size: 50px;
+margin-bottom: 50px;
+
+}
+
+
+#nike {
+
+font-weight: 600;
+margin-bottom: 5px;
+
+}
+
+
+#error {
+
+color: red;
+
+}
+
+button {
+
+border: none;
+padding: 10px 10px;
+color: #04A1BF;
+width: 200px;
+font-weight: bold;
+margin-top: 5px;
+margin-bottom: 5px;
+
+}
+
+#inc_button {
+
+background: whitesmoke;
+
+
+}
